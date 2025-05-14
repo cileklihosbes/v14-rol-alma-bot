@@ -1,0 +1,60 @@
+{
+    "roleprefix": "--", // Botun prefixi
+    "roletoken": "envkismagit", // .env bölüme git
+    "rolessahip": "sahipid", // kendi id
+    "roledurum": "Saitan 💖 Kardeş", // botun durumu
+    "rolestat": "WATCHING", // elleme
+    "roleses": "", //botun gircek ses kanal id
+    "tag": "", // tagınız varsa ekleyin yoksa bir tane sembol koyun
+    "rolescolor": "Random",
+     "taglı": "", // taglı rol id
+     "booster": "", // booster rol id
+     "kayıtsız": "", // kayıtsız rol id 
+     "registerchat": "", // kanal id
+    "katılım": {
+        "roleetkinkatılım": "", // etkinlik rol id
+        "roleçekilkatılım": "" // çekiliş rol id
+    },
+    "takım": {
+        "fener": "", // takım rol id
+        "galat": "",
+        "besik": "",
+        "trabzon": "",
+        "basak": ""
+    },
+    "ilişki": {
+        "couple": "", // ilişki rol id
+        "alone": ""
+    }, 
+    "oyun": {
+        "mlbb": "", // oyun rol id
+        "csgo": "",
+        "pubg":"",
+        "lol": "",
+        "valorant": "",
+        "gtav": "",
+        "minecraft": ""
+    },
+    "renk": {
+        "kırmızı": "", // renk rol id
+        "beyaz": "",
+        "mavi": "",
+        "sarı": "",
+        "yeşil": ""
+    },
+    "burç": {
+        "akrep": "", // burç rol id
+        "boğa": "",
+        "başak": "",
+        "ikizler": "",
+        "kova": "",
+        "koç": "",
+        "yengeç": "",
+        "oğlak": "",
+        "terazi": "",
+        "aslan": "",
+        "balık": "",
+        "yay": ""
+    }
+
+}
