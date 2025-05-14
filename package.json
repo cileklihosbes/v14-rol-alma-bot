@@ -1,0 +1,19 @@
+{
+  "name": "saitan-roles",
+  "version": "0.0.1",
+  "description": "rol alma botu",
+  "main": "saitan.js",
+  "scripts": {
+    "start": "node saitan.js"
+  },
+  "author": "Saitan",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/voice": "^0.14.0",
+    "croxydb": "^0.0.7",
+    "discord.js": "^14.7.1"
+  },
+"engines": {
+    "node": "16.x" 
+  }
+}
