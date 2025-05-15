@@ -3,7 +3,7 @@ const info = require("../info.json")
 module.exports.run = (client, message, args, interaction) => {
  if (message.member.id !== info.rolessahip) return;
 
- var rolesmesaj = `:white_small_square:  Kendinize uygun **Burç** rollerini aşağıdaki açılır menüden alabilirsiniz.`
+ var rolesmesaj = `:white_small_square:  Kendinize uygun **İlişki** rollerini aşağıdaki açılır menüden alabilirsiniz.`
 
  const iliski = new ActionRowBuilder()
  .addComponents(
@@ -13,15 +13,13 @@ module.exports.run = (client, message, args, interaction) => {
     .addOptions(
         {
             label: 'Sevgilim var',
-            description: 'Couple rolü',
             value: 'i1',
             emoji: '👩🏻‍❤️‍👨🏻'
         },
         {
             label: 'Sevgilim yok',
-            description: 'Alone rolü',
             value: 'i2',
-            emoji: '😔'
+            emoji: '💔'
 
         },
         {
