@@ -66,9 +66,9 @@ client.on(Events.ClientReady, async() => {
     
     const katreses = client.channels.cache.get(info.roleses);
     const connection = joinVoiceChannel({
-   channelId: katreses.id,
-   guildId: katreses.guild.id,
-   adapterCreator: katreses.guild.voiceAdapterCreator,
+   channelId: saitanses.id,
+   guildId: saitanses.guild.id,
+   adapterCreator: saitanses.guild.voiceAdapterCreator,
    selfDeaf: true,
    selfMute: true,
 });
