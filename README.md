@@ -4,4 +4,5 @@
 ### Nasıl Kurulur?
 
 `config.json` dosyasını doldur
+
 Terminale gidip `node saitan.js` yazın.
